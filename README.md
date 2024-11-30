@@ -40,7 +40,7 @@ We have successfully compared text files based on their meanings, flagged simila
 - `images`
 - `nce_report.html`
 - `sujan.py`
-- `tejas.py`
+- `suresh.py`
 - `templates`
 - `test1.txt`
 - `test2.txt`
